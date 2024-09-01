@@ -13,6 +13,8 @@
 
     printf("Widyan\n");
     printf("Computer Engineering\n");
+    printf("Howraa Al-Robaie\n");
+    printf("Computer Science\n");
 
     return 0;
  }
